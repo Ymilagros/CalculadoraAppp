@@ -23,4 +23,12 @@ Esta es una calculadora moderna con un diseño inspirado en IOS, desarrollada en
 
    2. Realiza tus cambios y haz un commit:
       git commit -m "Añadí una nueva funcionalidad"
+
+      NUEVA FUNCION
      
+ #se ageran nuevas funciones y un nuevo diseno  para ppoder cambiar entre los 2 disenos de la calculadora y se le dio funcionalida a sacr porcentages
+
+
+![{79A86C8B-A103-4DFF-880C-5E68FCA29F3D}](https://github.com/user-attachments/assets/d740c0d4-56cf-43e4-9a5c-0d945fa5a5fe)
+
+![{B00C414B-E88C-4A9F-9CE5-38B7B4304250}](https://github.com/user-attachments/assets/b790c795-e318-4ae1-8ac6-697a4583a16d)
